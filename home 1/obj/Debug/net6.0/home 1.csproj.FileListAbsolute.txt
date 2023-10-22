@@ -1,0 +1,15 @@
+/Users/anny/Desktop/Hobas/home 1/bin/Debug/net6.0/home 1
+/Users/anny/Desktop/Hobas/home 1/bin/Debug/net6.0/home 1.deps.json
+/Users/anny/Desktop/Hobas/home 1/bin/Debug/net6.0/home 1.runtimeconfig.json
+/Users/anny/Desktop/Hobas/home 1/bin/Debug/net6.0/home 1.dll
+/Users/anny/Desktop/Hobas/home 1/bin/Debug/net6.0/home 1.pdb
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.csproj.AssemblyReference.cache
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.AssemblyInfoInputs.cache
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.AssemblyInfo.cs
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.csproj.CoreCompileInputs.cache
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.dll
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/refint/home 1.dll
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.pdb
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/home 1.genruntimeconfig.cache
+/Users/anny/Desktop/Hobas/home 1/obj/Debug/net6.0/ref/home 1.dll

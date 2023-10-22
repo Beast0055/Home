@@ -1,0 +1,15 @@
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.csproj.AssemblyReference.cache
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.AssemblyInfoInputs.cache
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.AssemblyInfo.cs
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.csproj.CoreCompileInputs.cache
+/Users/anny/Desktop/Hobas/bin/Debug/net6.0/Hobas
+/Users/anny/Desktop/Hobas/bin/Debug/net6.0/Hobas.deps.json
+/Users/anny/Desktop/Hobas/bin/Debug/net6.0/Hobas.runtimeconfig.json
+/Users/anny/Desktop/Hobas/bin/Debug/net6.0/Hobas.dll
+/Users/anny/Desktop/Hobas/bin/Debug/net6.0/Hobas.pdb
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.dll
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/refint/Hobas.dll
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.pdb
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/Hobas.genruntimeconfig.cache
+/Users/anny/Desktop/Hobas/obj/Debug/net6.0/ref/Hobas.dll
